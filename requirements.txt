@@ -1,0 +1,14 @@
+sox
+absl-py
+yapf
+pylint
+flake8
+tqdm
+tensorflow-text==2.0.1
+librosa
+jieba
+pandas<=0.25.1 
+kaldiio
+rarfile
+inflect
+https://github.com/kpu/kenlm/archive/master.zip
